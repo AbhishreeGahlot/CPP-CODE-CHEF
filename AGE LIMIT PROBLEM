@@ -1,8 +1,8 @@
-Age Limit
-Chef wants to appear in a competitive exam. To take the exam, there are following requirement.
+//Age Limit
+//Chef wants to appear in a competitive exam. To take the exam, there are following requirement.
+//
 
-
-CODE:
+//CODE:
  #include <iostream>
 using namespace std;
 
