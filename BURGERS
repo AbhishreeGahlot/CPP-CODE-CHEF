@@ -1,4 +1,4 @@
-
+/*
 Burgers
 Chef is fond of burgers and decided to make as many burgers as possible.
 
@@ -47,7 +47,7 @@ For each test case, output the maximum number of burgers that Chef can make.
 
 
 
-CODE:
+CODE:*/
 #include <iostream>
 using namespace std;
 
